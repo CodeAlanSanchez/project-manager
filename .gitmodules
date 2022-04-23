@@ -1,0 +1,6 @@
+[submodule "project-manager-cra"]
+	path = project-manager-cra
+	url = https://github.com/CodeAlanSanchez/project-manager-cra
+[submodule "project-manager-nodejs"]
+	path = project-manager-nodejs
+	url = https://github.com/CodeAlanSanchez/project-manager-nodejs
